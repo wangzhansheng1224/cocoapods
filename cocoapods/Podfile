@@ -1,0 +1,3 @@
+target:cocoapods do
+pod 'third', :path => '/Users/wangzhansheng/cocoapods/第三方库'
+end

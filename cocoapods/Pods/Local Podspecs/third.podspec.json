@@ -1,0 +1,21 @@
+{
+  "name": "third",
+  "version": "0.0.1",
+  "summary": "A short description of third.",
+  "homepage": "http://abc/third",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "wangzs": "wangzs@smartdot.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "http://abc/third.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "third/**/*.{h,m}"
+}

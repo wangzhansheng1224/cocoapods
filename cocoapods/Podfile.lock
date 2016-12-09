@@ -1,0 +1,16 @@
+PODS:
+  - third (0.0.1)
+
+DEPENDENCIES:
+  - third (from `/Users/wangzhansheng/cocoapods/第三方库`)
+
+EXTERNAL SOURCES:
+  third:
+    :path: "/Users/wangzhansheng/cocoapods/第三方库"
+
+SPEC CHECKSUMS:
+  third: 03b0f0f42e0a028bd231ff75922380e018d5fb9e
+
+PODFILE CHECKSUM: e07ad25fca5aef3b89c41883e17a3ef12a52a206
+
+COCOAPODS: 1.1.1
