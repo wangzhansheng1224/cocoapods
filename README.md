@@ -6,8 +6,10 @@
 pod spec create third
 ![效果gif](https://github.com/wangzhansheng1224/cocoapods/blob/master/1.png)
 2.用xcode打开third.podspec文件修改一下内容
+
 ![效果gif](https://github.com/wangzhansheng1224/cocoapods/blob/master/2.png)
 ![效果gif](https://github.com/wangzhansheng1224/cocoapods/blob/master/3.png)
+
 3.创建PodFile文件编写
 ![效果gif](https://github.com/wangzhansheng1224/cocoapods/blob/master/4.png)
 4.打开终端编写
